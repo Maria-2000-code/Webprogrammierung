@@ -1,0 +1,36 @@
+# IDEs & Editor-Dateien
+.classpath
+.project
+.settings/
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+
+# Backend
+backend/target/
+*.class
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Betriebssystem-Dateien
+Thumbs.db
+
+# Zertifikate und Schlüssel
+*.p12
+*.jks
+*.keystore
+
+# Datenbank
+DB/
+*.mv.db
+*.trace.db
+
+# Ausarbeitung & Aufgabenstellung
+*.docx
+*.pdf
+~WRL*.tmp
+
+# Logo der Hochschule (Rechte liegen bei der Hochschule)
+Frontend/src/assets/
